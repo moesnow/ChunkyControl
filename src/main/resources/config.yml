@@ -1,0 +1,6 @@
+# The amount of players that is needed to pause Chunky's tasks.
+# -> If this amount of players or more is online, chunky will stop tasks until enough players
+#    have logged off again
+# Setting this to 0 or -1 will disable this feature -> chunky will not pause rendering
+# Default is -1
+player-task-limit: -1

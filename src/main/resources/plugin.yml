@@ -1,0 +1,7 @@
+name: ChunkyControl
+version: '${version}'
+main: top.kotori.chunkycontrol.ChunkyControl
+api-version: '1.20'
+depend: [Chunky]
+authors: [ moesnow ]
+description: Control Chunky
